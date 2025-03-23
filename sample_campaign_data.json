@@ -1,0 +1,401 @@
+{
+    "campaigns": [
+        {
+            "campaign_id": 0,
+            "creator": "0x46e1be85bd3a360e8f6eb062eff5de601b4daa1c",
+            "title": "Campaign 0",
+            "description": "Description for Campaign 0",
+            "goal_amount": 6,
+            "current_amount": 0,
+            "deadline": 1742647207,
+            "milestones": [
+                {
+                    "milestone_id": 0,
+                    "description": "Milestone 0 for Campaign 0",
+                    "amount": 2,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 1,
+                    "description": "Milestone 1 for Campaign 0",
+                    "amount": 3,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                }
+            ]
+        },
+        {
+            "campaign_id": 1,
+            "creator": "0x37b1e891c82b39c7c58d6fad4afb1b0eed1e9c73",
+            "title": "Campaign 1",
+            "description": "Description for Campaign 1",
+            "goal_amount": 11,
+            "current_amount": 0,
+            "deadline": 1742128807,
+            "milestones": [
+                {
+                    "milestone_id": 0,
+                    "description": "Milestone 0 for Campaign 1",
+                    "amount": 4,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 1,
+                    "description": "Milestone 1 for Campaign 1",
+                    "amount": 2,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 2,
+                    "description": "Milestone 2 for Campaign 1",
+                    "amount": 4,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                }
+            ]
+        },
+        {
+            "campaign_id": 2,
+            "creator": "0x28a119dfe3a217b44b4de980e8bfc16429587154",
+            "title": "Campaign 2",
+            "description": "Description for Campaign 2",
+            "goal_amount": 9,
+            "current_amount": 0,
+            "deadline": 1742301607,
+            "milestones": [
+                {
+                    "milestone_id": 0,
+                    "description": "Milestone 0 for Campaign 2",
+                    "amount": 4,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 1,
+                    "description": "Milestone 1 for Campaign 2",
+                    "amount": 3,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 2,
+                    "description": "Milestone 2 for Campaign 2",
+                    "amount": 3,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 3,
+                    "description": "Milestone 3 for Campaign 2",
+                    "amount": 1,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                }
+            ]
+        },
+        {
+            "campaign_id": 3,
+            "creator": "0x13cc29f880e8ebb74735753b0bc4c940d71bf0fb",
+            "title": "Campaign 3",
+            "description": "Description for Campaign 3",
+            "goal_amount": 10,
+            "current_amount": 0,
+            "deadline": 1742215207,
+            "milestones": [
+                {
+                    "milestone_id": 0,
+                    "description": "Milestone 0 for Campaign 3",
+                    "amount": 5,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 1,
+                    "description": "Milestone 1 for Campaign 3",
+                    "amount": 2,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 2,
+                    "description": "Milestone 2 for Campaign 3",
+                    "amount": 3,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                }
+            ]
+        },
+        {
+            "campaign_id": 4,
+            "creator": "0x6dce7877daa572408a4ca3407488f70b3f61f604",
+            "title": "Campaign 4",
+            "description": "Description for Campaign 4",
+            "goal_amount": 11,
+            "current_amount": 0,
+            "deadline": 1742388007,
+            "milestones": [
+                {
+                    "milestone_id": 0,
+                    "description": "Milestone 0 for Campaign 4",
+                    "amount": 1,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 1,
+                    "description": "Milestone 1 for Campaign 4",
+                    "amount": 2,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 2,
+                    "description": "Milestone 2 for Campaign 4",
+                    "amount": 3,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                },
+                {
+                    "milestone_id": 3,
+                    "description": "Milestone 3 for Campaign 4",
+                    "amount": 5,
+                    "contributed_amount": 0,
+                    "approved": false,
+                    "approval_count": 0
+                }
+            ]
+        }
+    ],
+    "contributions": [
+        {
+            "campaign_id": 3,
+            "contributor": "0x50687d97890a98771960a0b5f3277888433bf3b3",
+            "amount": 2.57,
+            "timestamp": 1741955604
+        },
+        {
+            "campaign_id": 3,
+            "contributor": "0x2f103316ba583cd890277d2bfeebe7985d9a98cc",
+            "amount": 4.93,
+            "timestamp": 1741951844
+        },
+        {
+            "campaign_id": 2,
+            "contributor": "0xd397acc076236769bd9322472c66c3e84993d7aa",
+            "amount": 0.81,
+            "timestamp": 1741954410
+        },
+        {
+            "campaign_id": 3,
+            "contributor": "0xd79f8657def101ce441fd41f5acaed66fbe327ac",
+            "amount": 0.09,
+            "timestamp": 1741955397
+        },
+        {
+            "campaign_id": 1,
+            "contributor": "0x8e6dc6ae7614175df643e2b2ff9ca67f7317664f",
+            "amount": 3.54,
+            "timestamp": 1741954514
+        },
+        {
+            "campaign_id": 4,
+            "contributor": "0xa105e615d1ec0584382c94bba90b34b6de49c333",
+            "amount": 3.1,
+            "timestamp": 1741951486
+        },
+        {
+            "campaign_id": 0,
+            "contributor": "0x81582105ebe1f906ab6ffd15580b283d428cb73e",
+            "amount": 4.72,
+            "timestamp": 1741954788
+        },
+        {
+            "campaign_id": 3,
+            "contributor": "0xcbf2123d905561cb0638de4cb3f1f1e39915d9b0",
+            "amount": 4.7,
+            "timestamp": 1741953489
+        },
+        {
+            "campaign_id": 4,
+            "contributor": "0x1ba29b15b9e07ff0309b5623205743bce98504a4",
+            "amount": 4.24,
+            "timestamp": 1741955604
+        },
+        {
+            "campaign_id": 0,
+            "contributor": "0xf6544cdbffff1f785db8f24f4dcd9ddbd002e948",
+            "amount": 1.22,
+            "timestamp": 1741955245
+        },
+        {
+            "campaign_id": 3,
+            "contributor": "0x290bd2cba5abb488d3037c4dfbcee62d4a19cd06",
+            "amount": 0.39,
+            "timestamp": 1741953279
+        },
+        {
+            "campaign_id": 3,
+            "contributor": "0xb392f9cd393fd4e6ef7ab3a1e6e1adba5089d0ac",
+            "amount": 1.77,
+            "timestamp": 1741955670
+        },
+        {
+            "campaign_id": 2,
+            "contributor": "0xea726f9ed39fe35ebe7c0a1a4af0e253709a5c51",
+            "amount": 0.88,
+            "timestamp": 1741954643
+        },
+        {
+            "campaign_id": 0,
+            "contributor": "0x0b63468517dcff30623befa7d57a41062654a5b9",
+            "amount": 3.43,
+            "timestamp": 1741952232
+        },
+        {
+            "campaign_id": 3,
+            "contributor": "0x250a49da7e5d721783cd09f90f060f5a4586dcc7",
+            "amount": 4.6,
+            "timestamp": 1741951081
+        },
+        {
+            "campaign_id": 1,
+            "contributor": "0xd342000061c75d4cb33542205fe2b72f08573ca9",
+            "amount": 0.65,
+            "timestamp": 1741952538
+        },
+        {
+            "campaign_id": 2,
+            "contributor": "0xf6267d4297b7d094bf01465831c27b1981648346",
+            "amount": 1.01,
+            "timestamp": 1741954020
+        },
+        {
+            "campaign_id": 0,
+            "contributor": "0x9e3f9b0f5d64ad2d877ded5fdef27c582c70088f",
+            "amount": 4.73,
+            "timestamp": 1741951077
+        },
+        {
+            "campaign_id": 0,
+            "contributor": "0x16f029c940b87e005f9e4e34d471d862950ab4ac",
+            "amount": 4.74,
+            "timestamp": 1741951147
+        },
+        {
+            "campaign_id": 1,
+            "contributor": "0x0f90cd09318e75e5b3094ef1d1ed9f3ebe60a3cc",
+            "amount": 1.99,
+            "timestamp": 1741953217
+        }
+    ],
+    "approvals": [
+        {
+            "campaign_id": 2,
+            "milestone_id": 3,
+            "approver": "0xdb4b84b0ffc2433ae3eadf99c0126cf6ba67ffc7",
+            "approved": true
+        },
+        {
+            "campaign_id": 4,
+            "milestone_id": 0,
+            "approver": "0xbf89e17940226f93ba75fcb7b85b76947f1051a7",
+            "approved": true
+        },
+        {
+            "campaign_id": 0,
+            "milestone_id": 1,
+            "approver": "0x3128c415d5779ba5f542cdce023c70d8a79fb23a",
+            "approved": true
+        },
+        {
+            "campaign_id": 3,
+            "milestone_id": 2,
+            "approver": "0xdd98798630122c189394534ddb83cde733daee4b",
+            "approved": false
+        },
+        {
+            "campaign_id": 3,
+            "milestone_id": 0,
+            "approver": "0xe317f90afac41ea2f25edce054de2a4fc35fbe28",
+            "approved": true
+        },
+        {
+            "campaign_id": 2,
+            "milestone_id": 3,
+            "approver": "0x78bf9eb5c293ba1a677730c6ceedab2eb092337a",
+            "approved": true
+        },
+        {
+            "campaign_id": 1,
+            "milestone_id": 1,
+            "approver": "0xb65edbe2d5435980f8aaf7e6a0e1ddbaf148b419",
+            "approved": true
+        },
+        {
+            "campaign_id": 1,
+            "milestone_id": 1,
+            "approver": "0xeea29c9b710fc4a4ead3574a305508dc6dd89498",
+            "approved": true
+        },
+        {
+            "campaign_id": 2,
+            "milestone_id": 2,
+            "approver": "0x0bab4172da31683dbdd224473725cb2c025f8c59",
+            "approved": false
+        },
+        {
+            "campaign_id": 0,
+            "milestone_id": 0,
+            "approver": "0x0bfe7e7523aac539f0c9d6f87e53d1d2013fac09",
+            "approved": false
+        },
+        {
+            "campaign_id": 1,
+            "milestone_id": 1,
+            "approver": "0x00be324411e759e8601a8b72026414c8077b821e",
+            "approved": false
+        },
+        {
+            "campaign_id": 2,
+            "milestone_id": 3,
+            "approver": "0xedc0ee123ad372e9cec860182997fb8380acbfc1",
+            "approved": false
+        },
+        {
+            "campaign_id": 2,
+            "milestone_id": 2,
+            "approver": "0xd77a6a68fb755b62bcceef88f357f435b013b9f5",
+            "approved": true
+        },
+        {
+            "campaign_id": 0,
+            "milestone_id": 3,
+            "approver": "0x28c6646f50665aa11b3adf9daa5f082b84a0bc2d",
+            "approved": true
+        },
+        {
+            "campaign_id": 1,
+            "milestone_id": 2,
+            "approver": "0x90c76388022eff6658c2d77cc4002dc3f94a30b2",
+            "approved": true
+        }
+    ]
+}

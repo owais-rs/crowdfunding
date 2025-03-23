@@ -1,0 +1,2 @@
+cons
+const [deployer] = await ethers.getSigners();
